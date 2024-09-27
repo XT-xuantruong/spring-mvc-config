@@ -76,6 +76,6 @@ Start the Server: Right-click on your Tomcat server in the Servers view and sele
 Access the Application: Open a web browser and go to http://localhost:8080/&lt;context-path&gt;, where &lt;context-path&gt; is usually the artifact ID of your project.
 ## Additional Tips
 
-Make sure your web.xml file is properly configured in the src/main/webapp/WEB-INF directory.
-Check the Console view in Eclipse for any errors during deployment.
-If you make changes to your code, you can redeploy by right-clicking the server and selecting Publish.
+-Make sure your web.xml file is properly configured in the src/main/webapp/WEB-INF directory.
+-Check the Console view in Eclipse for any errors during deployment.
+-If you make changes to your code, you can redeploy by right-clicking the server and selecting Publish.
