@@ -63,6 +63,7 @@ Ensure the with the necessary dependencies for a web application. Here’s a bas
     </build> 
 </project> 
 '''
+
 ## Step 6: Deploy the Project to Tomcat
 
 Right-click on your project and select Run As > Maven build....
