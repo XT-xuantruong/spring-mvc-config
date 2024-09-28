@@ -67,7 +67,7 @@ Ensure the with the necessary dependencies for a web application. Here’s a bas
 ## Step 6: Deploy the Project to Tomcat
 
 Right-click on your project and select Run As > Maven build....
-- In the Goals field, enter 'clean package' and click Run. This will build your project and create a WAR file in the target directory.
+- In the Goals field, enter `clean package` and click Run. This will build your project and create a WAR file in the target directory.
 Add the project to the server:
 - In the Servers view, right-click on your Tomcat server and select Add and Remove....
 - Select your project from the list and click Add &gt;, then click Finish.
